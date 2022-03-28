@@ -1,0 +1,13 @@
+@media screen and (max-width:560px) {
+    .presentation{
+       max-width:100%;
+    }
+    }
+    /* @media screen and (min-width:912px) and (max-width:1368px) {
+      .hrading {
+        margin-top:-3rem!important;
+      }
+    } */
+    .progress-bar{
+      background-color: green;
+    }
